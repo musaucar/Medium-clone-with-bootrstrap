@@ -1,2 +1,2 @@
-# Medium clone with bootrstrap
+# Medium clone with bootstrap
  
